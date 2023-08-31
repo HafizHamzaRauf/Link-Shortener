@@ -13,7 +13,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [shortener website](https://your-live-site-url.com)
+- Live Site URL: [shortener website](https://make-url-short.netlify.app/)
 
 ### Built with
 
